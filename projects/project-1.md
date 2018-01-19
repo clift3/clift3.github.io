@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ics111-project.jpg
+image: images/ics111-project.PNG
 title: ICS 111 Project
 permalink: projects/ics111
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ summary: I developed a simple game in Java with a partner.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/ics111-project.png">
+  <img class="ui image" src="../images/ics111-project.PNG">
 </div>
 
 This is a simple game that uses Dylan Kobayashi's EZ framework in Java. The player controls a character on the screen and moves around with the WASD keys to avoid the moving bullets. There are three difficulties to choose from, that alter the amount of bullets on the screen. A score is tracked at the top-right of the screen which correlates to how long the player has no been hit by a bullet. The game ends the first time a player is hit.
