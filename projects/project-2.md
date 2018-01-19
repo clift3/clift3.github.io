@@ -1,27 +1,24 @@
 ---
 layout: project
 type: project
-image: images/ics111-project.PNG
-title: ICS 111 Project
-permalink: projects/ics111
+image: images/ics212-project.PNG
+title: Simple Database
+permalink: projects/simpledatabase
 # All dates must be YYYY-MM-DD format!
-date: 2016-12-05
+date: 2017-11-19
 labels:
-  - Games
-  - Java
+  - C++
   - Github
-summary: I developed a simple game in Java with a partner.
+summary: I created a simple database in C/C++
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/ics111-project.PNG">
+  <img class="ui image" src="../images/ics212-project.PNG">
 </div>
 
-This is a simple game that uses Dylan Kobayashi's EZ framework in Java. The player controls a character on the screen and moves around with the WASD keys to avoid the moving bullets. There are three difficulties to choose from, that alter the amount of bullets on the screen. A score is tracked at the top-right of the screen which correlates to how long the player has no been hit by a bullet. The game ends the first time a player is hit.
+The database I created stored accounts that contained account numbers, names, and addresses. The accounts were stored in a linked list data structure. The user could add, delete, modify, and search accounts within the database. It was able to read a text file at start-up that contained the information of accounts previously inputted. When the program closed, the current accounts within the database are written to a text file.
 
-For this project, I programmed the main logic for the bullets, such as where they spawn and their hitboxes. I also programmed the menu and the different difficulties for the game.
-
-The source code for the project is on my [github here](https://github.com/clift3/ICS-111-Game).
+The source code for the project is on my [github here](https://github.com/clift3/simple-database).
 
 
 
