@@ -9,6 +9,7 @@ date: 2016-12-05
 labels:
   - Games
   - Java
+  - Github
 summary: I developed a simple game in Java with a partner.
 ---
 
