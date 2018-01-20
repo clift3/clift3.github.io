@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/qm.PNG
+image: images/qm.png
 title: TBD
 permalink: projects/tbd
 # All dates must be YYYY-MM-DD format!
