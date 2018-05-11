@@ -16,7 +16,7 @@ labels:
 summary: I worked in a team of 3 to create a simple website that acts as a hub for the clubs at the University of Hawaii at Manoa.
 ---
 
-<div class="ui rounded images">
+<div class="ui image center rounded images">
   <img src="../images/rcl808.png">
 </div>
 
