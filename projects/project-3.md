@@ -24,7 +24,7 @@ This project was done for ICS 314, Software Engineering. The main goal of the pr
 
 For this project, we used Meteor with react to design the website. I worked on designing the individual club pages and the database. This included creating a collection to store a user's club data as well as the different sorting available on the user's end. 
 
-<div class="ui rounded images">
+<div class="ui image center rounded images">
   <img src="../images/allclubsort.png">
 </div>
 
