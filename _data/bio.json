@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Clifton Miyamoto",
-    "label": "Student",
-    "picture": "https://clift3.github.io/images/profile-pic.jpg",
+    "label": "Software Engineer",
+    "picture": "",
     "email": "clifton3@hawaii.edu",
     "phone": "",
     "website": "https://clift3.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
+    "summary": "Computer science graduate of the University of Hawaii at Manoa",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -43,6 +43,11 @@
       "keywords": [
       ]
     }
+    {
+      "name": "Data Science",
+      "keywords": [
+      ]
+    }
   ],
   "skills": [
     {
@@ -50,10 +55,9 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
+        "Python",
         "Java",
-        "Javascript",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -62,19 +66,18 @@
       "keywords": [
         "Windows",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2015-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2019-12-20",
+      "gpa": "3.1",
       "courses": [
       ]
     }
@@ -91,12 +94,6 @@
       "date": "2011",
       "awarder": "Mathcounts",
       "summary": "My team won 2nd place in the State Mathcounts Competition. I placed 8th in the individual rankings."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
