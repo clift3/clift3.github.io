@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Clifton Miyamoto",
-    "label": "Software Engineer",
+    "label": "Developer",
     "picture": "",
-    "email": "clifton3@hawaii.edu",
+    "email": "cliftonmiyamoto@gmail.com",
     "phone": "",
     "website": "https://clift3.github.io",
     "summary": "Computer science graduate of the University of Hawaii at Manoa",
@@ -79,6 +79,9 @@
       "endDate": "2019-12-20",
       "gpa": "3.1",
       "courses": [
+        "Computer Vision",
+        "Database Systems",
+        "Operating Systems"
       ]
     }
   ],
@@ -94,6 +97,12 @@
       "date": "2011",
       "awarder": "Mathcounts",
       "summary": "My team won 2nd place in the State Mathcounts Competition. I placed 8th in the individual rankings."
+    },
+    {
+      "title": "Japanese Language Proficiency Test (JLPT) N1 Certification",
+      "date": "2019",
+      "awarder": "Japan Foundation and Japan Educational Exchanges and Services",
+      "summary": "The highest level of the JLPT that tests the reading and listening skills for Japanese."
     }
   ]
 }
